@@ -3,6 +3,8 @@
 Production analysis of Equinor's Volve field (North Sea, 2008–2016), built in Excel from the daily/monthly production data for quick reconciliation with analysis with python. 
 Oil was produced from the Middle Jurassic Hugin Formation under a water-injection waterflood.
 
+excel/Dashboard Monthly -Excel.png
+
 ## Key Findings
 F-12 and F-14 produced ~85% of the field's ~10M Sm³ oil.
 Calculated peak rates reconciled with NPD's reported field peak of ~9,000 Sm³/d.
