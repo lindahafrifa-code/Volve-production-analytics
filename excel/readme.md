@@ -1,6 +1,6 @@
 ## Volve Field Production Analysis (Excel)
 
-Production analysis of Equinor's Volve field (North Sea, 2008–2016), built in Excel from the daily/monthly production data. 
+Production analysis of Equinor's Volve field (North Sea, 2008–2016), built in Excel from the daily/monthly production data for quick reconciliation with analysis with python. 
 Oil was produced from the Middle Jurassic Hugin Formation under a water-injection waterflood.
 
 ## Key Findings
