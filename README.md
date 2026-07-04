@@ -2,6 +2,7 @@
 
 **Production analysis of Equinor's Volve field (North Sea, 2008–2016), built as a staged analytics pipeline: Python for data cleaning and KPI engineering, Excel for the stakeholder dashboard. SQL extraction layer and Power BI in progress.**
 
+
 ![Dashboard Monthly -Excel.png](https://github.com/lindahafrifa-code/Volve-Field-Production-Analytics-Python-Jupyter/blob/main/excel/Dashboard%20Monthly%20-Excel.png)
 
 ---
