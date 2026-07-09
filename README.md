@@ -78,6 +78,17 @@ This repo is a staged build. Remaining stages, in order:
 | `excel/` | Dashboard workbook — pivot analysis, well-health summary table with conditional-format flags, key findings |
 | `images/` | Exported charts |
 
+
+## Tools
+Python
+Pandas
+NumPy
+Matplotlib
+Jupyter Notebook
+Excel
+Sql (ongoing)
+Power BI (ongoing)
+
 ## Data licence & attribution
 
 Equinor Volve open dataset, released under **CC BY-NC-SA 4.0**. Data © Equinor, ExxonMobil E&P Norway, Bayerngas Norge, and the Norwegian Petroleum Directorate. Used here for learning and portfolio purposes in the spirit of the release; not for resale.
