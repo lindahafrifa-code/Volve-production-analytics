@@ -1,6 +1,6 @@
 # Volve: What Killed an Oil Field?
 
-Volve was a small oil field in the North Sea. It produced from sandstones of the Middle Jurassic **Hugin Formation** at ~2,700–3,100 m depth (NPD Factpages). 
+Volve was a small oil field in the North Sea. It produced from sandstones of the Middle Jurassic **Hugin Formation** at ~2,700–3,100 m depth (Sodir Factpages). 
 
 It started producing in 2008, was expected to last 3-5 years, and ran for 8. It shut down in 2016.
 
@@ -62,7 +62,7 @@ I went into the daily records and found this:
 | | Before it stopped | After it restarted |
 |---|---|---|
 | Oil | 184 Sm³/day | **874 Sm³/day** |
-| Water | 96% | **30%** |
+| Water cut | 96% | **30%** |
 | Valve position | **100% open** | **31% open** |
 
 That was very interesting. Before the shutdown, they had the tap wide open and the well could barely manage 184 Sm³/d of oil. 
@@ -176,8 +176,9 @@ Volve dataset comprises approximately 40,000 files from the Volve field, which w
 
 The dataset is used for 4 main reasons: 
 1. **It is real**: Real allocated production data, with real problems: NULL text in numeric columns, wells that changed role mid-life, missing sensor readings. This means cleaning it requires applying my professional skills.
-2. **It is verifiable**: The Volve's field history is publicly documented.
-My figures reconcile with the published field history: the 10 million Sm³ across all wells is about 63 million barrels, and the peak rates calculated for the two main producers add to roughly 9,000 Sm³/day, which matches the field's reported peak. Hence results from the repo can be reconciled against the official records (NPD Factpages).
+2.**It is verifiable**: Volve's field history is publicly documented.
+Adding up the daily production myself gives **10,037,081 Sm³** of oil. The Norwegian Offshore Directorate's total, summed across all wellbores, is **10,069,554 Sm³** .
+A difference of **0.32%**. Every cleaning decision I made had to be right for that to happen. ([Sodir Factpages](https://factpages.sodir.no/en/field/PageView/All/3420717))
 3. **It is a known field**: NCS operators know this field. Meaning the analysis can be judged on its merits by people who know the right answers.
 4. **It's good for going beyond**: As a geoscientist, I wanted to apply my knowlege beyond creating charts and demonstrate how production data can be explored to understand well performance, identify production trends, and support operational decision-making.
 To reflect the type of analysis done by multidisciplinary teams working across subsurface, production and data analytics.
@@ -187,7 +188,7 @@ To reflect the type of analysis done by multidisciplinary teams working across s
 ## Huge credit -  Data licence & attribution
 
 Equinor's Volve open dataset, licensed CC BY-NC-SA 4.0. 
-Data belongs to © Equinor, ExxonMobil E&P Norway, Bayerngas Norge, and the Norwegian Petroleum Directorate.
+Data belongs to © Equinor, ExxonMobil E&P Norway, Bayerngas Norge, and the Norwegian Offshore Directorate (Sodir).
 Downloaded from Databricks and Used here to learn ONLY.
 
 ---
