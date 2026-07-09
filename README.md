@@ -19,23 +19,22 @@ This project combines data analysis with subsurface understanding to turn produc
 
 
 ## What is analysed
-
-# Production performance
-Total oil production by well
-Total gas production by well
-Oil production decline rate
-Gas production trends
+**Production performance** 
+1. Total oil production by well
+2. Total gas production by well
+3. Oil production decline rate
+4. Gas production trends
 
 # Reservoir and well behaviour
-Water cut over time
-Gas-Oil Ratio (GOR)
-Downhole pressure trends
-Pressure comparison between producers
+1. Water cut over time
+2. Gas-Oil Ratio (GOR)
+3. Downhole pressure trends
+4. Pressure comparison between producers
 
 # Operations
-Choke size versus downhole pressure
-32-day shut-in analysis for well F-12H
-Production behaviour before and after restart
+1. Choke size versus downhole pressure
+2. 32-day shut-in analysis for well F-12H
+3. Production behaviour before and after restart
 
 
 
