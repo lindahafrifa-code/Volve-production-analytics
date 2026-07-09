@@ -1,3 +1,25 @@
+# Volve — What Killed an Oil Field?
+
+Volve was a small oil field in the North Sea. It started producing in 2008, was expected to last 3-5 years, and it ran for 8. It shut down in 2016.
+
+In 2018 Equinor released all of its data to the public. Every well, every day, for the whole life of the field.
+
+This project takes that data and asks: can you work out what happened to a field, and why, using only its production records? Turns out you can.
+
+But, along the way I found something in the data that I have not seen anyone else point out.
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Volve Field - Production Data Analytics
 
 **Production analysis of Equinor's Volve field (North Sea, 2008–2016), built as a staged analytics pipeline: Python for data cleaning and KPI engineering, Excel for the stakeholder dashboard. SQL extraction layer and Power BI in progress.**
